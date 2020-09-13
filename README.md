@@ -9,10 +9,14 @@
 - 👯 I’m looking to collaborate on Android Apps 
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Any Tech Related Stuff Or Programming
-- 📫 How to reach me:[LinkedIn @ARKA MAZUMDER](https://www.linkedin.com/in/arka-mazumder/), [Instagram  @freak__treak](https://www.instagram.com/freak__treak/),[Facebook @Arka Mazumder](https://m.facebook.com/arka.asl).
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and and why there is no C+ 
 - 🌱Stack OverFlow: [Stack OverFlow @Arka Mazumder](https://stackoverflow.com/users/14138319/arka-mazumder)
+
+- :mailbox: You can reach me with the links below
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamazumder0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arka-mazumder/)
 
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
 Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
