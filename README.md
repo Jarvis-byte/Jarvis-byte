@@ -9,7 +9,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Android Apps 
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Any Tech Related Stuff Or Programming
-- 📫 How to reach me: [Instagram  @freak__treak](https://www.instagram.com/freak__treak/),[Facebook @Arka Mazumder](https://m.facebook.com/arka.asl).
+ - <img src="people.gif" width=50 height=50> Connect Me 
+- 📫 How to reach me:[LinkedIn @ARKA MAZUMDER](https://www.linkedin.com/in/arka-mazumder/), [Instagram  @freak__treak](https://www.instagram.com/freak__treak/),[Facebook @Arka Mazumder](https://m.facebook.com/arka.asl).
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and and why there is no C+ 
 - 🌱Stack OverFlow: [Stack OverFlow @Arka Mazumder](https://stackoverflow.com/users/14138319/arka-mazumder)
@@ -24,7 +25,6 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ![](https://camo.githubusercontent.com/6882582a21c9f14bf64b400845ffcaf96c87f4a7/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d4638393832303f7374796c653d666c6174266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/3ccaafa82fb07cf32074117bebb09296f6daf663/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4325323026253230432b2b2d3635396164323f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d666666666666)
 <img src="AWS.png" width=50 height=50>
-<img src="c.png" width=30 height=30>
 ![](https://camo.githubusercontent.com/030fa15207a7ca85711c431ee67e1a542b26926c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d4632393131313f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d464646464646)
 ![](https://camo.githubusercontent.com/aa50892ca99e64326385d1dfb399f4b32cf2728e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d4646413631313f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d464646464646)
 ![](https://camo.githubusercontent.com/21e7b5bfe9838100b6208b3cac535aa4e5aea2f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6565643731383f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666)
