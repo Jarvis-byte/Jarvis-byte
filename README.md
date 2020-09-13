@@ -2,14 +2,13 @@
 
 [![HitCount](http://hits.dwyl.com/Jarvis-byte/Jarvis-byte.svg)](http://hits.dwyl.com/Jarvis-byte/Jarvis-byte)
 
-Here are some ideas to get you started:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on Chat Based Applications
 - 🌱 I’m currently learning Android Studio For Making Android Apps With Server  
 - 👯 I’m looking to collaborate on Android Apps 
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Any Tech Related Stuff Or Programming
- - <img src="people.gif" width=50 height=50> Connect Me 
 - 📫 How to reach me:[LinkedIn @ARKA MAZUMDER](https://www.linkedin.com/in/arka-mazumder/), [Instagram  @freak__treak](https://www.instagram.com/freak__treak/),[Facebook @Arka Mazumder](https://m.facebook.com/arka.asl).
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and and why there is no C+ 
