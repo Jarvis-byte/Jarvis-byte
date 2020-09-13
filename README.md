@@ -2,6 +2,12 @@
 
 [![HitCount](http://hits.dwyl.com/Jarvis-byte/Jarvis-byte.svg)](http://hits.dwyl.com/Jarvis-byte/Jarvis-byte)
 
+ ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+  
+ - I am a 4th Year undergraduate student from <a href="http://cgec.org.in/index.php"><b>Cooch Behar Government Engineering College</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
+Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - 🔭 I’m currently working on Chat Based Applications
@@ -20,14 +26,6 @@
   <img alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arka-mazumder/)
  
-
-  ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-  
-  I am a 4th Year undergraduate student from <a href="http://cgec.org.in/index.php"><b>Cooch Behar Government Engineering College</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
-I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
-Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jarvis-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 ### 👨‍💻 Languages and Tools
