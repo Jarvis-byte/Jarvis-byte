@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Chat Based Applications
 - 🌱 I’m currently learning Android Studio For Making Android Apps With Server  
-- 👯 I’m looking to collaborate on Android Apps 
+- 👯 I’m looking to collaborate on Android Apps <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - 🤔 I’m looking for help with AI
 - 💬 Ask me about Any Tech Related Stuff Or Programming
 - 😄 Pronouns: He/His 
@@ -16,8 +16,10 @@
 - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamazumder0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arka-mazumder/)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arka-mazumder/)<a href="https://www.instagram.com/freak__treak/?hl=en">
+  <img alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> 
 
+  
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
 Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
 
