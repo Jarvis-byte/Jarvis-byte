@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Chat Based Application
+- 🔭 I’m currently working on Chat Based Applications
 - 🌱 I’m currently learning Android Studio For Making Android Apps With Server 
 - 👯 I’m looking to collaborate on Android Apps 
 - 🤔 I’m looking for help with AI
