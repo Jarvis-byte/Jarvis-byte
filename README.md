@@ -1,4 +1,4 @@
-<img src="Card.jpg" >
+![](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/Card.jpg)
 
 [![HitCount](http://hits.dwyl.com/Jarvis-byte/Jarvis-byte.svg)](http://hits.dwyl.com/Jarvis-byte/Jarvis-byte)
 
