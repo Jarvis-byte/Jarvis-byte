@@ -13,7 +13,7 @@ Social media is a tool you can use to leverage your digital identity, an identit
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on Chat Based Applications
+- 🔭 I’m currently working on an Uber-Like car Pooling App
 - 🌱 I’m currently learning Android Studio For Making Android Apps With Server  
 - 👯 I’m looking to collaborate on Android Apps <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - 🤔 I’m looking for help with AI
