@@ -8,7 +8,7 @@
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
 Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1Au78N0mqBVkR3aZydZcS-aXQQUNST0he/view?usp=sharing)*
+&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1i_95rwdaRjWCJlUIj2_pL1t6CKKs-zdy/view?usp=sharing)*
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
