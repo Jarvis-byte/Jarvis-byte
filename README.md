@@ -8,8 +8,8 @@
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
 Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
 
-&nbsp; &nbsp; *[View My CV as an 'ANDROID DEVELOPER'](https://drive.google.com/file/d/1i_95rwdaRjWCJlUIj2_pL1t6CKKs-zdy/view?usp=sharing)*
-&nbsp; &nbsp; *[View My CV as an 'Computer Engineer'](https://drive.google.com/file/d/1P1SSxqCs7_OqHbUvEmtb6vls86lzRGYH/view?usp=sharing)*
+&nbsp; &nbsp; *[View My CV as an 'ANDROID DEVELOPER'](https://drive.google.com/file/d/1gmNP6AyOkIBAAo7POqqH3FCpyzHEKcjP/view?usp=sharing)*
+&nbsp; &nbsp; *[View My CV as an 'Computer Engineer'](https://drive.google.com/file/d/1x00rog-yypmQ2btfWHyIszKCaGa9iOO3/view?usp=sharing)*
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -20,7 +20,6 @@ Social media is a tool you can use to leverage your digital identity, an identit
 - 💬 Ask me about Any Tech Related Stuff Or Programming
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and and why there is no C+ 
-- 🌱Stack OverFlow: [Stack OverFlow @Arka Mazumder](https://stackoverflow.com/users/14138319/arka-mazumder)
 
 - :mailbox: You can reach me with the links below
 
