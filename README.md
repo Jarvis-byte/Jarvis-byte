@@ -37,9 +37,7 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ## &nbsp; &nbsp; - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamazumder0@gmail.com)
-<a href="https://www.instagram.com/freak__treak/?hl=en">
-  <img alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/>
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arka-mazumder/)
+
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jarvis-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
