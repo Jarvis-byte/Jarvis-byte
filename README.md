@@ -1,6 +1,17 @@
 ![](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/Card.jpg)
 
-[![HitCount](http://hits.dwyl.com/Jarvis-byte/Jarvis-byte.svg)](http://hits.dwyl.com/Jarvis-byte/Jarvis-byte)
+</h2>
+<br />
+
+<a href="https://www.linkedin.com/in/arka-mazumder/">
+  <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/Jarvis-byte">
+  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/freak__treak/?hl=en">
+  <img align="left" alt="Reeha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
  ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
   
