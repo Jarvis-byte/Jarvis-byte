@@ -1,5 +1,7 @@
 ![](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/Card.jpg)
 
+
+
 </h2>
 <br />
 
@@ -15,16 +17,16 @@
 
 <br />
 
- ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-  
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+  ---
  - I am a 4th Year undergraduate student from <a href="http://cgec.org.in/index.php"><b>Cooch Behar Government Engineering College</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
 Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
 
-&nbsp; &nbsp; *[View My CV as an 'ANDROID DEVELOPER'](https://drive.google.com/file/d/1sflmMd78bL-wT-weloq6LMZ-Cn4RuTzu/view?usp=sharing)*
-&nbsp; &nbsp; *[View My CV as an 'Computer Engineer'](https://drive.google.com/file/d/1tyOM5CPbFFGcP3AaghR_pQctIU7y7IeJ/view?usp=sharing)*
+## &nbsp; &nbsp; *[View My CV as an 'ANDROID DEVELOPER'](https://drive.google.com/file/d/1sflmMd78bL-wT-weloq6LMZ-Cn4RuTzu/view?usp=sharing)*
+## &nbsp; &nbsp; *[View My CV as an 'Computer Engineer'](https://drive.google.com/file/d/1tyOM5CPbFFGcP3AaghR_pQctIU7y7IeJ/view?usp=sharing)*
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **A little more about me...**  
 
 - 🔭 I’m currently working on an Uber-Like car Pooling App
 - 🌱 I’m currently learning Android Studio For Making Android Apps With Server  
@@ -34,7 +36,7 @@ Social media is a tool you can use to leverage your digital identity, an identit
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and and why there is no C+ 
 
-- :mailbox: You can reach me with the links below
+## &nbsp; &nbsp; - :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamazumder0@gmail.com)
 <a href="https://www.instagram.com/freak__treak/?hl=en">
