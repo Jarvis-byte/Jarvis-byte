@@ -34,7 +34,7 @@ Social media is a tool you can use to leverage your digital identity, an identit
 - 😄 Pronouns: He/His 
 - ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and and why there is no C+ 
 
-## &nbsp; &nbsp; - :mailbox: Drop A Mail :-
+ - :mailbox: Drop A Mail :-
 
 ## &nbsp; &nbsp;[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamazumder0@gmail.com)
 
