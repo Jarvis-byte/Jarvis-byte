@@ -57,5 +57,7 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ![](https://camo.githubusercontent.com/21e7b5bfe9838100b6208b3cac535aa4e5aea2f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6565643731383f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
-
+---
+## My Strategy 👇
+![Strategy](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/strategy.png)
 
