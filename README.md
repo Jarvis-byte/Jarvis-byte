@@ -28,7 +28,7 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ---
 ## My Strategy 👇
 ![Strategy](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/strategy.png)
-
+---
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **A little more about me...**  
 
 - 🔭 I’m currently working on an Uber-Like car Pooling App
