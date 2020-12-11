@@ -42,6 +42,9 @@ Social media is a tool you can use to leverage your digital identity, an identit
  
 ## &nbsp; &nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jarvis-byte&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jarvis-byte&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+</a>
+
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android">
