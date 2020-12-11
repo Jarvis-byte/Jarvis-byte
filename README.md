@@ -25,7 +25,7 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ## &nbsp; &nbsp; *[View My CV as an 'ANDROID DEVELOPER'](https://drive.google.com/file/d/1sflmMd78bL-wT-weloq6LMZ-Cn4RuTzu/view?usp=sharing)*
 ## &nbsp; &nbsp; *[View My CV as an 'Computer Engineer'](https://drive.google.com/file/d/1tyOM5CPbFFGcP3AaghR_pQctIU7y7IeJ/view?usp=sharing)*
 
----
+
 ## My Strategy 👇
 ![Strategy](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/strategy.png)
 ---
