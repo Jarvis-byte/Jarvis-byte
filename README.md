@@ -13,6 +13,8 @@
   <img align="left" alt="Reeha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
+
  ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
   
  - I am a 4th Year undergraduate student from <a href="http://cgec.org.in/index.php"><b>Cooch Behar Government Engineering College</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
@@ -51,5 +53,5 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ![](https://camo.githubusercontent.com/21e7b5bfe9838100b6208b3cac535aa4e5aea2f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6565643731383f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
-<img src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word"> <img src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel"> <img src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint">
+
 
