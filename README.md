@@ -39,11 +39,13 @@ Social media is a tool you can use to leverage your digital identity, an identit
 
 ## &nbsp; &nbsp;[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arkamazumder0@gmail.com)
 
- 
-## &nbsp; &nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jarvis-byte&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-## &nbsp; &nbsp; <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Jarvis-byte&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/Jarvis-byte">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jarvis-byte&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jarvis-byte&&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
