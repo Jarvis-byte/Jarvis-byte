@@ -22,7 +22,7 @@
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
 Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
 
- *[View :(Click here)  My CV as an 'ANDROID DEVELOPER'](https://drive.google.com/file/d/1JRywypfcR8Cua1WwbP3nHr2ULwp2c7hI/view?usp=sharing)*
+ *[View :(Click here)  My CV as an 'ANDROID DEVELOPER'](https://drive.google.com/file/d/1JzlIaNzAXy6svKTY8KtrPivcN6uQMzfk/view?usp=sharing)*
  </a>
  
  *[View :(Click here) My CV as a 'Computer Engineer'](https://drive.google.com/file/d/1ssN_YW7CwAXwxESAlRu9YuoARFGPVrst/view?usp=sharing)*
