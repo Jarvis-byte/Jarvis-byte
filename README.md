@@ -64,7 +64,6 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ![](https://camo.githubusercontent.com/21e7b5bfe9838100b6208b3cac535aa4e5aea2f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6565643731383f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666)
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
