@@ -59,11 +59,11 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android">
-![](https://camo.githubusercontent.com/3ccaafa82fb07cf32074117bebb09296f6daf663/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4325323026253230432b2b2d3635396164323f7374796c653d666c6174266c6f676f3d63253242253242266c6f676f436f6c6f723d666666666666)
-<img src="AWS.png" width=50 height=50>
+
 ![](https://camo.githubusercontent.com/030fa15207a7ca85711c431ee67e1a542b26926c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d4632393131313f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d464646464646)
 ![](https://camo.githubusercontent.com/aa50892ca99e64326385d1dfb399f4b32cf2728e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d4646413631313f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d464646464646)
 ![](https://camo.githubusercontent.com/21e7b5bfe9838100b6208b3cac535aa4e5aea2f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6565643731383f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666)
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/hritik5102)](https://github.com/hritik5102)
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
 
