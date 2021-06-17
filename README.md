@@ -21,16 +21,6 @@
  - I am a 4th Year undergraduate student from <a href="http://cgec.org.in/index.php"><b>Cooch Behar Government Engineering College</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
 Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
-
- *[View :(Click here)  My CV as an 'ANDROID DEVELOPER'](https://drive.google.com/file/d/1F_Xm9l--MHebeB8Bei5D21ilyJUap0Ub/view?usp=sharing)*
- </a>
- 
- *[View :(Click here) My CV as a 'Computer Engineer'](https://drive.google.com/file/d/1ssN_YW7CwAXwxESAlRu9YuoARFGPVrst/view?usp=sharing)*
-</a>
-
- *[View :(Click here) Internship Experience Certificate As An Android App Developer'](https://drive.google.com/file/d/1MT1lC9-mP3R25ivqFHyp_qrMNyP3Kf9j/view?usp=sharing)*
- </a>
- ---
 ## My Strategy 👇
 ![Strategy](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/strategy.png)
 ---
@@ -56,6 +46,12 @@ Social media is a tool you can use to leverage your digital identity, an identit
 </a>
 </p>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cyebukayire}/count.svg" /></p> 
+<br></div>
+
+
 ### 👨‍💻 Languages and Tools
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 <img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android">
@@ -69,4 +65,13 @@ Social media is a tool you can use to leverage your digital identity, an identit
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
 
-
+<!-- START NEW SECTION -->
+<div align="center">
+ <br>
+ <p align="centre"><b> Here is a random joke that'll make you laugh!</b></p>
+ 
+ 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+<br>
+</div>
