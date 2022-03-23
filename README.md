@@ -28,7 +28,7 @@ Social media is a tool you can use to leverage your digital identity, an identit
 
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning React.js.
-- 👯 I’m looking to collaborate on Android Apps <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+- 👯 I’m looking to collaborate on making something new out of the box <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 - 🤔 I’m looking for help with UI/UX designing.
 - 💬 Ask me about Any Tech Related Stuff Or Programming
 - 😄 Pronouns: He/His 
