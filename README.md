@@ -26,13 +26,13 @@ Social media is a tool you can use to leverage your digital identity, an identit
 ---
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **A little more about me...**  
 
-- 🔭 I’m currently working on an Uber-Like car Pooling App
-- 🌱 I’m currently learning Android Studio For Making Android Apps With Server  
+- 🔭 I’m currently working on my portfolio website.
+- 🌱 I’m currently learning React.js.
 - 👯 I’m looking to collaborate on Android Apps <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-- 🤔 I’m looking for help with AI
+- 🤔 I’m looking for help with UI/UX designing.
 - 💬 Ask me about Any Tech Related Stuff Or Programming
 - 😄 Pronouns: He/His 
-- ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and and why there is no C+ 
+- ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and why there is no C+ 
 
  - :mailbox: Drop A Mail :-
 
