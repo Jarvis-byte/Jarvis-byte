@@ -18,21 +18,26 @@
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
   ---
- - I am a Front-End-Developer in <a href="https://www.tcs.com/"><strong>TCS</strong></a>. Currently learning AWS and UI/UX designing. I have graduated in computer science from <a href="http://cgec.org.in/index.php"><b>Cooch Behar Government Engineering College</b></a> in 2021.In my college time, I was in love with java, so started learning and making android apps. I have done 2 internships before joining TCS. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset,and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
-I strongly believe that constant learning is a part of our journey, and if at some point one stops the process, that person is out of the game.
-Social media is a tool you can use to leverage your digital identity, an identity on which only you have the control. I am a product of digital identity and strongly believe in creating an online presence.
+ - I am an Android Developer at TCS, currently expanding my knowledge in AWS and honing my skills in UI/UX design. I graduated in computer science from [Cooch Behar Government Engineering College](http://cgec.org.in/index.php) in 2021. During my college years, I developed a strong passion for Java, which led me to start learning and creating Android apps, following the MVVM architecture and utilizing Android Jetpack. Prior to joining TCS, I completed two internships.
+
+ - From a very early age, I've had a deep love for technology, and this affection has helped me cultivate a strong technological mindset and a thirst for learning. I firmly believe that there is no limit to the knowledge one can acquire 🧠.
+
+ - I hold a strong belief in the importance of continuous learning throughout our journey. I believe that if one ever stops this process, they are no longer in the game.
+
+ - I see social media as a powerful tool for crafting and controlling one's digital identity. I am a testament to the impact of digital identity and strongly advocate for establishing a meaningful online presence.
+
 ## My Strategy 👇
 ![Strategy](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/strategy.png)
 ---
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **A little more about me...**  
 
-- 🔭 I’m currently working on my portfolio website.
-- 🌱 I’m currently learning React.js.
-- 👯 I’m looking to collaborate on making something new out of the box <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-- 🤔 I’m looking for help with UI/UX designing.
-- 💬 Ask me about Any Tech Related Stuff Or Programming
-- 😄 Pronouns: He/His 
-- ⚡ Fun fact:When I started Programming I thought C++ is just the 2nd generation of C language and why there is no C+ 
+- 🔭 I'm currently working on my <span style="color: red">**Gate Pulse App**</span> for PG, designed to provide information to PG residents about the gatekeeper responsible for their security and any guest visitors. You can check out the project on [GitHub](https://github.com/Jarvis-byte/Gate-Pulse).
+- 🌱 I'm actively learning Jetpack Compose.
+- 👯 I'm open to collaboration on innovative and out-of-the-box projects. <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+- 🤔 I'm seeking assistance with UI/UX design.
+- 💬 Feel free to ask me about anything related to technology or programming.
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Why did the developer go broke? Because he used up all his cache!
 
  - :mailbox: Drop A Mail :-
 
@@ -52,18 +57,6 @@ Social media is a tool you can use to leverage your digital identity, an identit
 <br></div>
 
 
-### 👨‍💻 Languages and Tools
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
-<img src="https://img.shields.io/badge/-Android-black?style=flat&logo=android">
-![](https://camo.githubusercontent.com/030fa15207a7ca85711c431ee67e1a542b26926c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d4632393131313f7374796c653d666c6174266c6f676f3d6d7973716c266c6f676f436f6c6f723d464646464646)
-![](https://camo.githubusercontent.com/aa50892ca99e64326385d1dfb399f4b32cf2728e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46697265626173652d4646413631313f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d464646464646)
-![](https://camo.githubusercontent.com/21e7b5bfe9838100b6208b3cac535aa4e5aea2f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6565643731383f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666)
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat">
 
 <!-- START NEW SECTION -->
 <div align="center">
