@@ -18,13 +18,16 @@
 
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
   ---
- - I am an Android Developer at TCS, currently expanding my knowledge in AWS and honing my skills in UI/UX design. I graduated in computer science from [Cooch Behar Government Engineering College](http://cgec.org.in/index.php) in 2021. During my college years, I developed a strong passion for Java, which led me to start learning and creating Android apps, following the MVVM architecture and utilizing Android Jetpack. Prior to joining TCS, I completed two internships.
-
- - From a very early age, I've had a deep love for technology, and this affection has helped me cultivate a strong technological mindset and a thirst for learning. I firmly believe that there is no limit to the knowledge one can acquire 🧠.
-
- - I hold a strong belief in the importance of continuous learning throughout our journey. I believe that if one ever stops this process, they are no longer in the game.
-
- - I see social media as a powerful tool for crafting and controlling one's digital identity. I am a testament to the impact of digital identity and strongly advocate for establishing a meaningful online presence.
+1. 🚀 Android Developer at KUKU FM, previously at TCS.
+2. 🎓 Graduated in 2021 with a passion for Java, Kotlin and Android app development.
+3. 🛠️ Engineered Tata Neu app at KUKU FM, achieving 10M+ downloads, a 4.4-star rating, and expanding the global user base to 219K.
+     - 🌐 Enhanced e-commerce experiences.
+     - 🏗️ Revamped app architecture for a 40% increase in user engagement.
+     - ⏱️ Streamlined MVVM design, reducing deployment time by 50%.
+     - 🔄 Integrated Retrofit and Room Database for improved data management.
+4. 💻 Tech Stack: Kotlin, Retrofit, Room, Dagger 2, LiveData, Flow, MVVM, Navigation, Firebase, GCP, Jetpack Compose.
+5. 🧠 Firm believer in continuous learning and staying updated with tech trends.
+6. 🌐 Advocates for crafting a meaningful online presence in the digital landscape.
 
 ## My Strategy 👇
 ![Strategy](https://github.com/Jarvis-byte/Jarvis-byte/blob/master/strategy.png)
