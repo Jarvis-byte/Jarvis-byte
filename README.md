@@ -20,7 +20,7 @@
   ---
 1. 🚀 Android Developer at KUKU FM, previously at TCS.
 2. 🎓 Graduated in 2021 with a passion for Java, Kotlin and Android app development.
-3. 🛠️ Engineered Tata Neu app at KUKU FM, achieving 10M+ downloads, a 4.4-star rating, and expanding the global user base to 219K.
+3. 🛠️ Engineered Tata Neu app at TCS, achieving 10M+ downloads, a 4.4-star rating, and expanding the global user base to 219K.
      - 🌐 Enhanced e-commerce experiences.
      - 🏗️ Revamped app architecture for a 40% increase in user engagement.
      - ⏱️ Streamlined MVVM design, reducing deployment time by 50%.
